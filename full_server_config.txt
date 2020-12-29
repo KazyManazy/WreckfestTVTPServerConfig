@@ -1,11 +1,11 @@
-server_name=^5KazyManazy's ^6TVTP Test ^5Server
+server_name="^5KazyManazy's ^6TVTP Test ^5Server"
 welcome_message=^5Step 1: Google The Very TrackPack ^6Step 2: Subscribe to The Very TrackPack on Steam Workshop and wait for download to complete ^5Step 3: Got to the Misc Tab on Wreckfest, Go to Mods, Check the mark besides The Very TrackPack ^6Step 4: Join us on the server!!!
 password=
 max_players=24
 
 lan=0
 steam_port=27015
-steam_port=33540
+game_port=33540
 query_port=27016
 
 exclude_from_quickplay=1

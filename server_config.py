@@ -19,7 +19,7 @@ output_file: TextIO = open('full_server_config.txt', 'w')
 output_file.write("")
 
 # Name
-output_file.write("server_name=^5KazyManazy's ^6TVTP Test ^5Server")
+output_file.write("server_name=\"^5KazyManazy's ^6TVTP Test ^5Server\"")
 output_file.write("\n")
 # Server Message
 step1 = "^5Step 1: Google The Very TrackPack "
@@ -43,7 +43,7 @@ output_file.write("\n")
 # Server Ports (These are the default, you will need to forward ports UDP 27015, UDP 27016, UDP 33540, TCP 27015 in your router)
 output_file.write("steam_port=27015")
 output_file.write("\n")
-output_file.write("steam_port=33540")
+output_file.write("game_port=33540")
 output_file.write("\n")
 output_file.write("query_port=27016")
 output_file.write("\n")
