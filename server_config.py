@@ -60,7 +60,7 @@ output_file.write("clear_users=0")
 output_file.write("\n")
 
 # Give owner privileges 0 = first to join receives, doesn't receive owner priveleges
-output_file.write("owner_disabled=0")
+output_file.write("owner_disabled=1")
 output_file.write("\n")
 
 # Admin Start Timer 0 = automatic countdown, 1 = admin starts countdown
