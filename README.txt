@@ -56,6 +56,10 @@ tracks.txt
 Description: Once tracks.py is run, this file can be copied and pasted into the track rotation at the bottom of the
 server_config.cfg file.
 
+reversebroken.txt
+Description: A list of all the TVTP tracks that can be broken by driving in reverse past the finish line.  Used to
+give a warning when making the server config file.
+
 admins.csv
 moderators.csv
 banned.csv

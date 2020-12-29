@@ -7,6 +7,12 @@ for line in ids_file:
     curr_track_id = line.strip('\n')
     all_track_ids.append(curr_track_id)
 
+reverse_broken_ids = []
+reverse_file = open('reversebroken.txt', 'r')
+for line in reverse_file:
+    curr_track_id = line.strip('\n')
+    reverse_broken_ids.append(curr_track_id)
+
 with open('tracks.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
@@ -55,6 +61,9 @@ with open('tracks.csv') as csv_file:
             if track_id not in all_track_ids:
                 print("ERROR: track id not found: " + track_id + "  LineNum: " + str(line_count + 1))
                 continue
+
+            if track_id in reverse_broken_ids:
+                print("WARNING: track id " + track_id + " found on reverse error list  LineNum: " + str(line_count+1))
 
             output_file.write("# Race " + str(line_count - 1) + "\n")
             output_file.write("# Location: " + location + "\n")
