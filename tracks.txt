@@ -1,0 +1,3248 @@
+# Race 1
+# Location: Pocono
+# Track Name: Oval Reverse
+el_add=pocono_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 2
+# Location: The Colosseum
+# Track Name: Event 02 - Deathsphere
+el_add=colosseum_event_02
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 3
+# Location: TVTP Fig. Of Eight
+# Track Name: Hurtful Five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 4
+# Location: TVTP Misc
+# Track Name: Dune Race Reverse
+el_add=misc_dunerace_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 5
+# Location: TVTP Arenas
+# Track Name: Corrosion Arena
+el_add=arenas_corrosion
+el_gamemode=team derby
+el_num_teams=2
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 6
+# Location: TVTP Ovals
+# Track Name: Birkeland Oval
+el_add=ovals_birkeland_oval01
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 7
+# Location: Gardemoen
+# Track Name: Zigzag Reverse
+el_add=gardemoen_zigzag_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 8
+# Location: TVTP Ovals
+# Track Name: Pennsboro Reverse
+el_add=ovals_pennsboro_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 9
+# Location: TVTP Ovals
+# Track Name: Knobhill Oval Reverse
+el_add=ovals_knockhill_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 10
+# Location: Grenland
+# Track Name: Fast Reverse Layout
+el_add=grenland_fast_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 11
+# Location: Farmlands
+# Track Name: Stage 1
+el_add=farmlands_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 12
+# Location: Pocono
+# Track Name: Pocono Oval
+el_add=pocono_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 13
+# Location: TVTP Misc
+# Track Name: SFS
+el_add=misc_sfs
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 14
+# Location: TVTP Fig. Of Eight
+# Track Name: Derby Banked E. Big Ramp
+el_add=fig8_derbybankedeightbigramp
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 15
+# Location: TVTP Ovals
+# Track Name: Bristol Banger
+el_add=ovals_bristol_banger
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 16
+# Location: TVTP Misc
+# Track Name: Warehouse Run
+el_add=misc_nfdwarehouserun
+el_gamemode=racing
+el_num_teams=
+el_laps=7
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 17
+# Location: TVTP Ovals
+# Track Name: Bristol Dirt
+el_add=ovals_bristol_dirt
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 18
+# Location: TVTP Ovals
+# Track Name: Pine Hills Reverse
+el_add=ovals_phrr
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 19
+# Location: TVTP Misc
+# Track Name: Harbor 06
+el_add=misc_harbor_06
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 20
+# Location: TVTP Misc
+# Track Name: Pit Stop
+el_add=misc_pitstop
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 21
+# Location: TVTP Misc
+# Track Name: Bugbear Island
+el_add=misc_bugbearisland
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 22
+# Location: Lyngas
+# Track Name: Lyngas Slow
+el_add=lyngas_lyngas_slow
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 23
+# Location: Gardemoen
+# Track Name: Oval
+el_add=gardemoen_drag_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 24
+# Location: Pocono
+# Track Name: Pocono Route 2 Reverse
+el_add=pocono_route_2_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 25
+# Location: TVTP Ovals
+# Track Name: King's Lynn
+el_add=ovals_kingslynn
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 26
+# Location: Gardemoen
+# Track Name: Head-On Reverse
+el_add=gardemoen_head-on_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 27
+# Location: TVTP Rallycross
+# Track Name: Simstox Showdown
+el_add=rallycross_simstoxshowdown
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 28
+# Location: TVTP Misc
+# Track Name: Dune Race
+el_add=misc_dunerace
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 29
+# Location: TVTP Misc
+# Track Name: Bridge to Nowhere
+el_add=misc_bridgetonowhere
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 30
+# Location: TVTP Misc
+# Track Name: Caprio County Raceway Reverse
+el_add=misc_ccr_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 31
+# Location: TVTP Rallycross
+# Track Name: Knobhill Rallycross Short Reverse
+el_add=rallycross_knockhill_rc_short_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 32
+# Location: TVTP Fig. Of Eight
+# Track Name: Wimbledon Figure 8
+el_add=fig8_wimbledonfig8
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 33
+# Location: TVTP Misc
+# Track Name: Birkeland
+el_add=misc_birkeland
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 34
+# Location: TVTP Rallycross
+# Track Name: Rugsland Reverse
+el_add=rallycross_rugsland_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 35
+# Location: TVTP Arenas
+# Track Name: Red Pike Arena
+el_add=arenas_rpa2017
+el_gamemode=team derby
+el_num_teams=2
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 36
+# Location: TVTP Misc
+# Track Name: Kristiansand Raceway
+el_add=misc_kristiansandraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 37
+# Location: TVTP Misc
+# Track Name: Harbor 03
+el_add=misc_harbor_03
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 38
+# Location: The Colosseum
+# Track Name: Event 02 - Deathsphere
+el_add=colosseum_event_02
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 39
+# Location: The Colosseum
+# Track Name: Event 07 - Motocross
+el_add=colosseum_event_07
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 40
+# Location: TVTP Fig. Of Eight
+# Track Name: Red Pike Race
+el_add=fig8_rpar2017
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 41
+# Location: TVTP Ovals
+# Track Name: Pennsboro
+el_add=ovals_pennsboro
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 42
+# Location: Pocono
+# Track Name: Pocono Route 5 Reverse
+el_add=pocono_route_5_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 43
+# Location: TVTP Ovals
+# Track Name: Redwood Ring Oval
+el_add=ovals_rwro
+el_gamemode=team race
+el_num_teams=2
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 44
+# Location: TVTP Misc
+# Track Name: Woodhill Raceway
+el_add=misc_woodhillraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 45
+# Location: Lyngas
+# Track Name: Lyngas Slow Reverse
+el_add=lyngas_lyngas_slow_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 46
+# Location: TVTP Misc
+# Track Name: Harbor 01
+el_add=misc_harbor_01
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 47
+# Location: TVTP Arenas
+# Track Name: Bristol Arena
+el_add=arenas_bristol_arena
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 48
+# Location: Farmlands
+# Track Name: Stage 3
+el_add=farmlands_s3
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 49
+# Location: TVTP Rallycross
+# Track Name: Knobhill Rallycross Long Reverse
+el_add=rallycross_knockhill_rc_long_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 50
+# Location: TVTP Misc
+# Track Name: Dune Race Reverse
+el_add=misc_dunerace_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 51
+# Location: TVTP Ovals
+# Track Name: Birkeland Oval
+el_add=ovals_birkeland_oval01
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 52
+# Location: The Colosseum
+# Track Name: Event 08 - Obliterate Sphere
+el_add=colosseum_event_08
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 53
+# Location: TVTP Fig. Of Eight
+# Track Name: Hurtful Five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 54
+# Location: TVTP Misc
+# Track Name: SFS
+el_add=misc_sfs
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 55
+# Location: The Colosseum
+# Track Name: Event 11 - Banger Oval
+el_add=colosseum_event_11
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 56
+# Location: TVTP Misc
+# Track Name: Rock Bottom Race
+el_add=misc_rbRace
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 57
+# Location: Pocono
+# Track Name: Pocono Route 3 Reverse
+el_add=pocono_route_3_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 58
+# Location: TVTP Misc
+# Track Name: SCA Ultimate Raceway
+el_add=misc_sca
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 59
+# Location: TVTP Rallycross
+# Track Name: Knobhill Rallycross Long
+el_add=rallycross_knockhill_rc_long
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 60
+# Location: TVTP Ovals
+# Track Name: Arendale Triangle
+el_add=ovals_arendaltriangle
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 61
+# Location: Gardemoen
+# Track Name: Arena
+el_add=gardemoen_arena_01
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 62
+# Location: Grenland
+# Track Name: Head-On Layout
+el_add=grenland_head_on
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 63
+# Location: TVTP Misc
+# Track Name: Black Sails Valley
+el_add=misc_bsv
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 64
+# Location: TVTP Misc
+# Track Name: Woodhill Raceway
+el_add=misc_woodhillraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 65
+# Location: TVTP Misc
+# Track Name: Bugbear Island
+el_add=misc_bugbearisland
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 66
+# Location: Farmlands
+# Track Name: Stage 4
+el_add=farmlands_s4
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 67
+# Location: TVTP Misc
+# Track Name: Caprio County Raceway Reverse
+el_add=misc_ccr_reverse
+el_gamemode=team race
+el_num_teams=2
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 68
+# Location: TVTP Misc
+# Track Name: Knobhill
+el_add=misc_knockhill
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 69
+# Location: TVTP Ovals
+# Track Name: Bristol
+el_add=ovals_bristol
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 70
+# Location: TVTP Ovals
+# Track Name: Orange Speedway Reverse
+el_add=ovals_osr
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 71
+# Location: TVTP Misc
+# Track Name: Harbor 02
+el_add=misc_harbor_02
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 72
+# Location: Grenland
+# Track Name: Head-On Layout
+el_add=grenland_head_on
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 73
+# Location: Pocono
+# Track Name: Pocono Route 6
+el_add=pocono_route_6
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 74
+# Location: The Colosseum
+# Track Name: Event 10 - Crash Canyon
+el_add=colosseum_event_10
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 75
+# Location: The Colosseum
+# Track Name: Event 07 - Motocross
+el_add=colosseum_event_07
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 76
+# Location: TVTP Ovals
+# Track Name: Emmen Raceway
+el_add=ovals_emmenraceway
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 77
+# Location: Grenland
+# Track Name: Folkrace Reverse Layout
+el_add=grenland_folkrace_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 78
+# Location: TVTP Misc
+# Track Name: SCA U. Raceway Fast
+el_add=misc_sca_fast
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 79
+# Location: Farmlands
+# Track Name: Stage 2
+el_add=farmlands_s2
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 80
+# Location: Gardemoen
+# Track Name: Zigzag
+el_add=gardemoen_zigzag
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 81
+# Location: TVTP Misc
+# Track Name: RWR Tour
+el_add=misc_rwr_tour
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 82
+# Location: TVTP Arenas
+# Track Name: Main Derby
+el_add=arenas_nfdd
+el_gamemode=team derby
+el_num_teams=2
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 83
+# Location: TVTP Misc
+# Track Name: CCR Ramp
+el_add=misc_ccr_ramp
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 84
+# Location: TVTP Misc
+# Track Name: Caprio County Raceway
+el_add=misc_ccr
+el_gamemode=team race
+el_num_teams=2
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 85
+# Location: TVTP Fig. Of Eight
+# Track Name: Nevada Freight Depot
+el_add=fig8_nfd
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 86
+# Location: Pocono
+# Track Name: Pocono Route 6 Reverse
+el_add=pocono_route_6_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 87
+# Location: The Colosseum
+# Track Name: Event 01 - Figure 8
+el_add=colosseum_event_01
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 88
+# Location: Grenland
+# Track Name: Folkrace Layout
+el_add=grenland_folkrace
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 89
+# Location: TVTP Misc
+# Track Name: Ballistic
+el_add=misc_space_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 90
+# Location: The Colosseum
+# Track Name: Event 02 - Deathsphere
+el_add=colosseum_event_02
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 91
+# Location: TVTP Misc
+# Track Name: Chalk Canyon 2017
+el_add=misc_cc2017
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 92
+# Location: TVTP Ovals
+# Track Name: Pine Hills Raceway
+el_add=ovals_phr
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 93
+# Location: Gardemoen
+# Track Name: Fig. 8
+el_add=gardemoen_fig8
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 94
+# Location: TVTP Misc
+# Track Name: Reverse
+el_add=misc_bugbearislandreverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 95
+# Location: Farmlands
+# Track Name: Stage 4
+el_add=farmlands_s4
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 96
+# Location: The Colosseum
+# Track Name: Event 11 - Banger Oval
+el_add=colosseum_event_11
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 97
+# Location: TVTP Ovals
+# Track Name: Orange Speedway Safer
+el_add=ovals_oss
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 98
+# Location: Green Racing Park Garden
+# Track Name: Green Racing Park Reverse
+el_add=greenracing_crosskart_01_reverse
+el_gamemode=team race
+el_num_teams=2
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 99
+# Location: Pocono
+# Track Name: Pocono Route 4 Reverse
+el_add=pocono_route_4_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 100
+# Location: Grenland
+# Track Name: Joker Layout
+el_add=grenland_joker
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 101
+# Location: TVTP Ovals
+# Track Name: Ringwood
+el_add=ovals_ringwood
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 102
+# Location: TVTP Ovals
+# Track Name: Bristol Dirt
+el_add=ovals_bristol_dirt
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 103
+# Location: TVTP Ovals
+# Track Name: Pennsboro Minioval
+el_add=ovals_pennsboro_minioval
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 104
+# Location: TVTP Misc
+# Track Name: Kristiansand Raceway
+el_add=misc_kristiansandraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 105
+# Location: TVTP Ovals
+# Track Name: Redwood Ring Oval
+el_add=ovals_rwro
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 106
+# Location: TVTP Misc
+# Track Name: Knobhill
+el_add=misc_knockhill
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 107
+# Location: TVTP Arenas
+# Track Name: Rock Bottom Derby
+el_add=arenas_rbderby
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 108
+# Location: TVTP Rallycross
+# Track Name: R.R. Rallycross Reverse
+el_add=rallycross_rwrrr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 109
+# Location: Grenland
+# Track Name: Joker Reverse Layout
+el_add=grenland_joker_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 110
+# Location: TVTP Fig. Of Eight
+# Track Name: Derby Banked E. No Ramp
+el_add=fig8_derbybankedeightnoramp
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 111
+# Location: TVTP Ovals
+# Track Name: Pine Hills Reverse
+el_add=ovals_phrr
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 112
+# Location: TVTP Ovals
+# Track Name: Michigan Speedway
+el_add=ovals_michiganspeedway
+el_gamemode=team race
+el_num_teams=2
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 113
+# Location: TVTP Rallycross
+# Track Name: Howling Wolfs Raceway Chicane Reverse
+el_add=rallycross_hw_chicane_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 114
+# Location: TVTP Misc
+# Track Name: SCA Ultimate Raceway
+el_add=misc_sca
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 115
+# Location: TVTP Misc
+# Track Name: No Construction Fences
+el_add=misc_birkeland_barriers
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 116
+# Location: TVTP Rallycross
+# Track Name: Simstox Showdown
+el_add=rallycross_simstoxshowdown
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 117
+# Location: Grenland
+# Track Name: Fast Layout
+el_add=grenland_fast
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 118
+# Location: Farmlands
+# Track Name: Stage 3
+el_add=farmlands_s3
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 119
+# Location: TVTP Misc
+# Track Name: Harbor 03
+el_add=misc_harbor_03
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 120
+# Location: TVTP Misc
+# Track Name: Kristiansand Raceway
+el_add=misc_kristiansandraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 121
+# Location: TVTP Ovals
+# Track Name: Orange Speedway Small
+el_add=ovals_osm
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 122
+# Location: TVTP Fig. Of Eight
+# Track Name: Elevated Eight
+el_add=fig8_elevatedeight
+el_gamemode=racing
+el_num_teams=
+el_laps=7
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 123
+# Location: The Colosseum
+# Track Name: Event 04 - Half-Pipe Race
+el_add=colosseum_event_04
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 124
+# Location: TVTP Misc
+# Track Name: Dune Race
+el_add=misc_dunerace
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 125
+# Location: Gardemoen
+# Track Name: Oval Reverse
+el_add=gardemoen_drag_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 126
+# Location: TVTP Ovals
+# Track Name: Harbor 07
+el_add=ovals_harbor_07
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 127
+# Location: TVTP Fig. Of Eight
+# Track Name: Derby Banked Eight
+el_add=fig8_derbybankedeight
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 128
+# Location: Lyngas
+# Track Name: Lyngas Original
+el_add=lyngas_lyngas_original
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 129
+# Location: TVTP Misc
+# Track Name: BSV Reverse Day
+el_add=misc_bsv_reverse_day
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 130
+# Location: The Colosseum
+# Track Name: Event 08 - Obliterate Sphere
+el_add=colosseum_event_08
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 131
+# Location: TVTP Misc
+# Track Name: SFS
+el_add=misc_sfs
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 132
+# Location: TVTP Misc
+# Track Name: Birkeland
+el_add=misc_birkeland
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 133
+# Location: TVTP Fig. Of Eight
+# Track Name: Hurtful Five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 134
+# Location: TVTP Ovals
+# Track Name: Pine Hills Reverse
+el_add=ovals_phrr
+el_gamemode=team race
+el_num_teams=2
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 135
+# Location: Pocono
+# Track Name: Pocono Route 5
+el_add=pocono_route_5
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 136
+# Location: TVTP Ovals
+# Track Name: Hillside Raceway
+el_add=ovals_hillsideracewaysmooth
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 137
+# Location: The Colosseum
+# Track Name: Event 06 - Stadium Race
+el_add=colosseum_event_06
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 138
+# Location: Farmlands
+# Track Name: Stage 2
+el_add=farmlands_s2
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 139
+# Location: TVTP Misc
+# Track Name: Bugbear Island
+el_add=misc_bugbearisland
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 140
+# Location: Lyngas
+# Track Name: Lyngas Fast
+el_add=lyngas_lyngas_fast
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 141
+# Location: TVTP Fig. Of Eight
+# Track Name: Hurtful Five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 142
+# Location: TVTP Arenas
+# Track Name: Main Derby
+el_add=arenas_nfdd
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 143
+# Location: Gardemoen
+# Track Name: Oval
+el_add=gardemoen_drag_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 144
+# Location: TVTP Ovals
+# Track Name: Hillside Raceway
+el_add=ovals_hillsideracewaysmooth
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 145
+# Location: TVTP Misc
+# Track Name: Bridge to Nowhere
+el_add=misc_bridgetonowhere
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 146
+# Location: Farmlands
+# Track Name: Stage 1 Reverse
+el_add=farmlands_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 147
+# Location: TVTP Misc
+# Track Name: Ballistic
+el_add=misc_space_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 148
+# Location: Gardemoen
+# Track Name: Head-On
+el_add=gardemoen_head-on
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 149
+# Location: TVTP Fig. Of Eight
+# Track Name: Nevada Freight Depot
+el_add=fig8_nfd
+el_gamemode=team race
+el_num_teams=2
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 150
+# Location: TVTP Misc
+# Track Name: Pit Stop
+el_add=misc_pitstop
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 151
+# Location: TVTP Arenas
+# Track Name: Harbor 5
+el_add=arenas_harbor_05
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 152
+# Location: TVTP Rallycross
+# Track Name: Howling Wolfs Raceway
+el_add=rallycross_hw
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 153
+# Location: TVTP Misc
+# Track Name: Eagle's Nest
+el_add=misc_eaglesnest
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 154
+# Location: TVTP Rallycross
+# Track Name: Lupine Hills
+el_add=rallycross_lupineshill
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 155
+# Location: Pocono
+# Track Name: Pocono Route 4
+el_add=pocono_route_4
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 156
+# Location: TVTP Ovals
+# Track Name: Bristol
+el_add=ovals_bristol
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 157
+# Location: TVTP Ovals
+# Track Name: Bristol Dirt
+el_add=ovals_bristol_dirt
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 158
+# Location: TVTP Misc
+# Track Name: Kristiansand Raceway Reverse
+el_add=misc_kristiansandracewayreverse
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 159
+# Location: Farmlands
+# Track Name: Stage 1
+el_add=farmlands_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 160
+# Location: Gardemoen
+# Track Name: Head-On Reverse
+el_add=gardemoen_head-on_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 161
+# Location: TVTP Ovals
+# Track Name: Michigan Speedway
+el_add=ovals_michiganspeedway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 162
+# Location: TVTP Misc
+# Track Name: Woodhill Raceway
+el_add=misc_woodhillraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 163
+# Location: TVTP Misc
+# Track Name: Knobhill Reverse
+el_add=misc_knockhill_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 164
+# Location: TVTP Ovals
+# Track Name: Arendale Triangle Reverse
+el_add=ovals_arendaltriangle_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 165
+# Location: The Colosseum
+# Track Name: Event 02 - Deathsphere
+el_add=colosseum_event_02
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 166
+# Location: TVTP Ovals
+# Track Name: Bristol
+el_add=ovals_bristol
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 167
+# Location: TVTP Misc
+# Track Name: Harbor 06
+el_add=misc_harbor_06
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 168
+# Location: TVTP Ovals
+# Track Name: Redwood Ring Oval Reverse
+el_add=ovals_rwror
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 169
+# Location: Pocono
+# Track Name: Pocono Route 3
+el_add=pocono_route_3
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 170
+# Location: TVTP Misc
+# Track Name: Birkeland
+el_add=misc_birkeland
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 171
+# Location: TVTP Misc
+# Track Name: Chalk Canyon 2017
+el_add=misc_cc2017
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 172
+# Location: TVTP Misc
+# Track Name: CCR Ramp Reverse
+el_add=misc_ccr_ramp_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 173
+# Location: TVTP Ovals
+# Track Name: Pine Hills Raceway
+el_add=ovals_phr
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 174
+# Location: TVTP Misc
+# Track Name: Black Sails Valley
+el_add=misc_bsv
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 175
+# Location: Green Racing Park Garden
+# Track Name: Green Racing Park Garden
+el_add=greenracing_crosskart_01
+el_gamemode=team race
+el_num_teams=2
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 176
+# Location: TVTP Fig. Of Eight
+# Track Name: Hurtful Five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 177
+# Location: TVTP Misc
+# Track Name: Warehouse Run
+el_add=misc_nfdwarehouserun
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 178
+# Location: TVTP Rallycross
+# Track Name: Howling Wolfs Raceway Chicane
+el_add=rallycross_hw_chicane
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 179
+# Location: TVTP Misc
+# Track Name: Caprio County Raceway
+el_add=misc_ccr
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 180
+# Location: Farmlands
+# Track Name: Stage 2
+el_add=farmlands_s2
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 181
+# Location: TVTP Ovals
+# Track Name: Red Pike Arena Oval
+el_add=ovals_rpa_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 182
+# Location: TVTP Arenas
+# Track Name: Rock Bottom Derby
+el_add=arenas_rbderby
+el_gamemode=team derby
+el_num_teams=2
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 183
+# Location: Lyngas
+# Track Name: Lyngas Original Reverse
+el_add=lyngas_lyngas_original_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 184
+# Location: TVTP Misc
+# Track Name: Ballistic
+el_add=misc_space_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 185
+# Location: TVTP Misc
+# Track Name: SFS
+el_add=misc_sfs
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 186
+# Location: TVTP Ovals
+# Track Name: Orange Speedway
+el_add=ovals_os
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 187
+# Location: Grenland
+# Track Name: Chicane Reverse Layout
+el_add=grenland_chicane_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 188
+# Location: TVTP Ovals
+# Track Name: Pennsboro Minioval Reverse
+el_add=ovals_pennsboro_minioval_reverse
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 189
+# Location: Green Racing Park Garden
+# Track Name: Green Racing Park Garden
+el_add=greenracing_crosskart_01
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 190
+# Location: TVTP Misc
+# Track Name: Kristiansand Raceway Reverse
+el_add=misc_kristiansandracewayreverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 191
+# Location: TVTP Fig. Of Eight
+# Track Name: Harbor 4
+el_add=fig8_harbor_04
+el_gamemode=racing
+el_num_teams=
+el_laps=7
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 192
+# Location: TVTP Misc
+# Track Name: Dune Race
+el_add=misc_dunerace
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 193
+# Location: TVTP Rallycross
+# Track Name: Simstox Showdown
+el_add=rallycross_simstoxshowdown
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 194
+# Location: Pocono
+# Track Name: Pocono Route 2
+el_add=pocono_route_2
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 195
+# Location: Grenland
+# Track Name: Chicane Layout
+el_add=grenland_chicane
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 196
+# Location: TVTP Ovals
+# Track Name: Knobhill Oval
+el_add=ovals_knockhill_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 197
+# Location: TVTP Ovals
+# Track Name: Red Pike Arena Oval
+el_add=ovals_rpa_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 198
+# Location: TVTP Misc
+# Track Name: Bugbear Island
+el_add=misc_bugbearisland
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 199
+# Location: TVTP Misc
+# Track Name: RWR Tour
+el_add=misc_rwr_tour
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 200
+# Location: TVTP Rallycross
+# Track Name: Lupine Hills
+el_add=rallycross_lupineshill
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 201
+# Location: The Colosseum
+# Track Name: Event 02 - Deathsphere
+el_add=colosseum_event_02
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 202
+# Location: TVTP Rallycross
+# Track Name: Rugsland
+el_add=rallycross_rugsland
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 203
+# Location: Farmlands
+# Track Name: Stage 5
+el_add=farmlands_s5
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 204
+# Location: TVTP Misc
+# Track Name: Rock Bottom Race
+el_add=misc_rbRace
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 205
+# Location: TVTP Misc
+# Track Name: BSV Reverse Day
+el_add=misc_bsv_reverse_day
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 206
+# Location: Gardemoen
+# Track Name: Oval Reverse
+el_add=gardemoen_drag_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 207
+# Location: The Colosseum
+# Track Name: Event 12 - Min Banger Oval
+el_add=colosseum_event_12
+el_gamemode=team race
+el_num_teams=2
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 208
+# Location: The Colosseum
+# Track Name: Event 09 - The Pit
+el_add=colosseum_event_09
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 209
+# Location: TVTP Misc
+# Track Name: Bridge to Nowhere
+el_add=misc_bridgetonowhere
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 210
+# Location: TVTP Fig. Of Eight
+# Track Name: Hurtful Five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 211
+# Location: Gardemoen
+# Track Name: Head-On
+el_add=gardemoen_head-on
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 212
+# Location: TVTP Misc
+# Track Name: Warehouse Run
+el_add=misc_nfdwarehouserun
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 213
+# Location: TVTP Fig. Of Eight
+# Track Name: Sca U. Raceway Chicane
+el_add=fig8_scac
+el_gamemode=racing
+el_num_teams=
+el_laps=4
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 214
+# Location: Pocono
+# Track Name: Pocono Route 1 Reverse
+el_add=pocono_route_1_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 215
+# Location: TVTP Ovals
+# Track Name: Wimbledon
+el_add=ovals_wimbledon
+el_gamemode=racing
+el_num_teams=
+el_laps=10
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 216
+# Location: TVTP Rallycross
+# Track Name: Redwood Ring Rallycross
+el_add=rallycross_rwrr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 217
+# Location: TVTP Arenas
+# Track Name: Red Pike Arena
+el_add=arenas_rpa2017
+el_gamemode=derby deathmatch
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 218
+# Location: TVTP Misc
+# Track Name: Eagle's Nest
+el_add=misc_eaglesnest
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 219
+# Location: Lyngas
+# Track Name: Lyngas Fast Reverse
+el_add=lyngas_lyngas_fast_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 220
+# Location: TVTP Rallycross
+# Track Name: Greenlake Valley
+el_add=rallycross_greenlakevalley
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 221
+# Location: TVTP Ovals
+# Track Name: Lakewood Oval
+el_add=ovals_lakewood
+el_gamemode=racing
+el_num_teams=
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 222
+# Location: Gardemoen
+# Track Name: Zigzag
+el_add=gardemoen_zigzag
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 223
+# Location: TVTP Misc
+# Track Name: Reverse
+el_add=misc_bugbearislandreverse
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 224
+# Location: TVTP Misc
+# Track Name: No Construction Fences
+el_add=misc_birkeland_barriers
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 225
+# Location: TVTP Ovals
+# Track Name: Pine Hills Raceway
+el_add=ovals_phr
+el_gamemode=team race
+el_num_teams=2
+el_laps=6
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 226
+# Location: Green Racing Park Garden
+# Track Name: Green Racing Park Reverse
+el_add=greenracing_crosskart_01_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=8
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 227
+# Location: TVTP Misc
+# Track Name: Pit Stop
+el_add=misc_pitstop
+el_gamemode=racing
+el_num_teams=
+el_laps=3
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 228
+# Location: TVTP Rallycross
+# Track Name: Howling Wolfs Raceway Reverse
+el_add=rallycross_hw_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 229
+# Location: Gardemoen
+# Track Name: Zigzag Reverse
+el_add=gardemoen_zigzag_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 230
+# Location: TVTP Rallycross
+# Track Name: Knobhill Rallycross Short
+el_add=rallycross_knockhill_rc_short
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 231
+# Location: Pocono
+# Track Name: Pocono Route 1
+el_add=pocono_route_1
+el_gamemode=racing
+el_num_teams=
+el_laps=2
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
+# Race 232
+# Location: Farmlands
+# Track Name: Stage 5
+el_add=farmlands_s5
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limitel_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=
+
