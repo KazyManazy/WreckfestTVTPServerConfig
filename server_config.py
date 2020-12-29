@@ -22,11 +22,10 @@ output_file.write("")
 output_file.write("server_name=\"^5KazyManazy's ^6TVTP Test ^5Server\"")
 output_file.write("\n")
 # Server Message
-step1 = "^5Step 1: Google The Very TrackPack "
-step2 = "^6Step 2: Subscribe to The Very TrackPack on Steam Workshop and wait for download to complete "
+step1 = "^5Step 1: Google The Very TrackPack    "
+step2 = "^6Step 2: Subscribe to The Very TrackPack on Steam Workshop and wait for download to complete    "
 step3 = "^5Step 3: Got to the Misc Tab on Wreckfest, Go to Mods, Check the mark besides The Very TrackPack "
-step4 = "^6Step 4: Join us on the server!!!"
-output_file.write("welcome_message=" + step1 + step2 + step3 + step4)
+output_file.write("welcome_message=" + step1 + step2 + step3)
 output_file.write("\n")
 # Password (leave blank for none)
 output_file.write("password=")
