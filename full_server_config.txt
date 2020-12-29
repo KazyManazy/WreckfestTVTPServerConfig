@@ -10,7 +10,7 @@ query_port=27016
 
 exclude_from_quickplay=1
 clear_users=0
-owner_disabled=0
+owner_disabled=1
 admin_control=0
 lobby_countdown=30
 ready_players_required=50
