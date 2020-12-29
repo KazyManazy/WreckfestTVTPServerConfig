@@ -49,32 +49,6 @@ output_file.write("query_port=27016")
 output_file.write("\n")
 output_file.write("\n")
 
-#Admin/Moderator/Banned Lists
-with open('admins.csv') as admin_csv_file:
-    admin_csv_reader = csv.reader(admin_csv_file, delimiter=',')
-    line_count = 0
-    admin_list = ""
-    for row in admin_csv_reader:
-        if line_count == 2:
-            admin_list = admin_list + row[1]
-        elif line_count > 2:
-            admin_list = admin_list + "," + row[1]
-        line_count = line_count+1
-    output_file.write("admin_steam_ids=" + admin_list)
-    output_file.write("\n")
-with open('moderators.csv') as moderators_csv_file:
-    moderators_csv_reader = csv.reader(moderators_csv_file, delimiter=',')
-    line_count = 0
-    moderators_list = ""
-    for row in moderators_csv_reader:
-        if line_count == 2:
-            moderators_list = moderators_list + row[1]
-        elif line_count > 2:
-            moderators_list = moderators_list + "," + row[1]
-        line_count = line_count+1
-    output_file.write("op_steam_ids=" + moderators_list)
-    output_file.write("\n")
-
 # OPTIONS
 
 # Quickplay 0 = wont join from quick match, 1 = can join from quick match
@@ -101,8 +75,42 @@ output_file.write("\n")
 output_file.write("ready_players_required=50")
 output_file.write("\n")
 
+#Admin/Moderator
+with open('admins.csv') as admin_csv_file:
+    admin_csv_reader = csv.reader(admin_csv_file, delimiter=',')
+    line_count = 0
+    admin_list = ""
+    for row in admin_csv_reader:
+        if line_count == 2:
+            admin_list = admin_list + row[1]
+        elif line_count > 2:
+            admin_list = admin_list + "," + row[1]
+        line_count = line_count+1
+    output_file.write("admin_steam_ids=" + admin_list)
+    output_file.write("\n")
+with open('moderators.csv') as moderators_csv_file:
+    moderators_csv_reader = csv.reader(moderators_csv_file, delimiter=',')
+    line_count = 0
+    moderators_list = ""
+    for row in moderators_csv_reader:
+        if line_count == 2:
+            moderators_list = moderators_list + row[1]
+        elif line_count > 2:
+            moderators_list = moderators_list + "," + row[1]
+        line_count = line_count+1
+    output_file.write("op_steam_ids=" + moderators_list)
+    output_file.write("\n")
+
 # enable track voting 0 = no voting, 1 = voting enabled
 output_file.write("enable_track_vote=1")
+output_file.write("\n")
+
+# Set initial track
+output_file.write("track=colosseum_event_02")
+output_file.write("\n")
+
+# Set initial game mode
+output_file.write("gamemode=derby")
 output_file.write("\n")
 
 # Prepopulated Bots in Server
@@ -111,6 +119,22 @@ output_file.write("\n")
 
 # Bot difficulty novice, amateur, expert
 output_file.write("ai_difficulty=expert")
+output_file.write("\n")
+
+# Number of default teams in team modes
+output_file.write("num_teams=2")
+output_file.write("\n")
+
+# Number of default laps in race mode
+output_file.write("laps=2")
+output_file.write("\n")
+
+# Number of default minutes for deathmatch
+output_file.write("time_limit=6")
+output_file.write("\n")
+
+# Number of default time interval with elimination race
+output_file.write("elimination_interval=20")
 output_file.write("\n")
 
 # Set vehicle damage level normal, intense, or realistic
@@ -139,6 +163,10 @@ output_file.write("\n")
 
 # Disable wrong way driving 0 = wrong way driving is slowed down, 1 = no limits to driving wrong way
 output_file.write("wrong_way_limiter_disabled=1")
+output_file.write("\n")
+
+# Default weather setting
+output_file.write("weather=")
 output_file.write("\n")
 
 # Set server update frequency low or high
