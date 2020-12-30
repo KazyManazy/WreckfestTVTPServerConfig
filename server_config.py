@@ -67,7 +67,7 @@ output_file.write("admin_control=0")
 output_file.write("\n")
 
 # Lobby countdown between 30 and 127 seconds
-output_file.write("lobby_countdown=30")
+output_file.write("lobby_countdown=60")
 output_file.write("\n")
 
 # Percentage of players required for auto countdown

@@ -18,7 +18,7 @@ TVTP Misc,Warehouse Run,Banger Race,7,,,misc_nfdwarehouserun
 TVTP Ovals,Bristol Dirt,Banger Race,10,,,ovals_bristol_dirt
 TVTP Ovals,Pine Hills Raceway,Banger Race,6,,,ovals_phr
 TVTP Misc,Harbor 06,Banger Race,3,,,misc_harbor_06
-TVTP Misc,Pit Stop,Banger Race,2,,,misc_pitstop
+TVTP Misc,Pit Stop,Banger Race,3,,,misc_pitstop
 TVTP Misc,Bugbear Island,Banger Race,3,,,misc_bugbearisland
 Lyngas,Lyngas Slow,Banger Race,4,,,lyngas_lyngas_slow
 Gardemoen,Oval,Banger Race,4,,,gardemoen_drag_oval
@@ -28,6 +28,7 @@ Gardemoen,Head-On Reverse,Banger Race,4,,,gardemoen_head-on_reverse
 TVTP Rallycross,Simstox Showdown,Banger Race,6,,,rallycross_simstoxshowdown
 TVTP Misc,Dune Race,Banger Race,3,,,misc_dunerace
 TVTP Misc,Bridge to Nowhere,Banger Race,10,,,misc_bridgetonowhere
+The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Misc,Caprio County Raceway Reverse,Banger Race,6,,,misc_ccr_reverse
 TVTP Rallycross,Knobhill Rallycross Short,Banger Race,5,,,rallycross_knockhill_rc_short
 TVTP Misc,Birkeland,Banger Race ,1,,,misc_birkeland
@@ -124,6 +125,7 @@ TVTP Misc,BSV Reverse Day,Banger Race,5,,,misc_bsv_reverse_day
 The Colosseum,Event 08 - Obliterate Sphere,Deathmatch,,6,,colosseum_event_08
 TVTP Misc,SFS,Banger Race,2,,,misc_sfs
 TVTP Misc,Birkeland,Banger Race ,1,,,misc_birkeland
+The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
 TVTP Ovals,Pine Hills Raceway,Team Race,6,,2,ovals_phr
 Pocono,Pocono Route 5,Banger Race,1,,,pocono_route_5
@@ -142,7 +144,7 @@ Farmlands,Stage 1 Reverse,Banger Race,1,,,farmlands_s1
 TVTP Misc,Ballistic,Banger Race,3,,,misc_space_s1
 Gardemoen,Head-On,Banger Race,5,,,gardemoen_head-on
 TVTP Fig. Of Eight,Nevada Freight Depot,Team Race,5,,2,fig8_nfd
-TVTP Misc,Pit Stop,Banger Race,2,,,misc_pitstop
+TVTP Misc,Pit Stop,Banger Race,3,,,misc_pitstop
 TVTP Arenas,Harbor 5,Deathmatch,,6,,arenas_harbor_05
 TVTP Rallycross,Howling Wolfs Raceway,Banger Race,5,,,rallycross_hw
 TVTP Misc,Eagle's Nest,Banger Race,3,,,misc_eaglesnest
@@ -197,6 +199,7 @@ TVTP Rallycross,Lupine Hills,Banger Race,5,,,rallycross_lupineshill
 The Colosseum,Event 02 - Deathsphere,Deathmatch,,6,,colosseum_event_02
 TVTP Rallycross,Rugsland,Banger Race,6,,,rallycross_rugsland
 Farmlands,Stage 5,Banger Race,1,,,farmlands_s5
+The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Misc,Rock Bottom Race,Banger Race,4,,,misc_rbRace
 TVTP Misc,BSV Reverse Day,Banger Race,5,,,misc_bsv_reverse_day
 Gardemoen,Oval,Banger Race,5,,,gardemoen_drag_oval
