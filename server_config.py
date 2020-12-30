@@ -23,7 +23,7 @@ output_file.write("server_name=\"^5KazyManazy's ^6TVTP Test ^5Server\"")
 output_file.write("\n")
 # Server Message
 step1 = "^5Testing out a Very TrackPack server that will eventually be the Poop Sock Shit Show TVTP server.  "
-step2 = "^6Please send any track suggestions, feedback, and glitch reporting to KazyManazy"
+step2 = "^6Please send any track suggestions, feedback, and glitch reporting to KazyManazy.  "
 step3 = "^5Enjoy the Very TrackPack"
 output_file.write("welcome_message=" + step1 + step2 + step3)
 output_file.write("\n")
