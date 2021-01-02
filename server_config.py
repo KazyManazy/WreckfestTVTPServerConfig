@@ -27,7 +27,7 @@ message2 = "^31. You're going to Die. "
 message3 = "^62. You might be offended. "
 message4 = "^23. No one cares. "
 message5 = "^5https://discord.gg/jpjNNx9"
-output_file.write("welcome_message=\"" + "\"")
+output_file.write("welcome_message=\"" + message1 + message2 + message3 + message4 + message5 + "\"")
 output_file.write("\n")
 # Password (leave blank for none)
 output_file.write("password=")

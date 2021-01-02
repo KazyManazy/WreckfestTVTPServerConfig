@@ -1,5 +1,5 @@
 server_name="^1Poop Sock's ^2TVTP ^4Shit Show"
-welcome_message=""
+welcome_message="^7Welcome to the TVTP Sock! ^31. You're going to Die. ^62. You might be offended. ^23. No one cares. ^5https://discord.gg/jpjNNx9"
 password=
 max_players=24
 
