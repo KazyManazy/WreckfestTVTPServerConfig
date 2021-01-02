@@ -1,5 +1,5 @@
-server_name="^5KazyManazy's ^6TVTP Test ^5Server"
-welcome_message=^5Testing out a Very TrackPack server that will eventually be the Poop Sock Shit Show TVTP server.  ^6Please send any track suggestions, feedback, and glitch reporting to KazyManazy.  ^5Enjoy the Very TrackPack
+server_name="^1Poop Sock's ^2TVTP ^4Shit Show"
+welcome_message=""
 password=
 max_players=24
 
