@@ -2,13 +2,15 @@ Location,Track,Race Type,Laps,Mins,Num Teams,Server Name
 ,,,,,,
 Pocono,Pocono Oval,Banger Race,3,,,pocono_oval
 The Colosseum,Event 02 - Deathsphere,Deathmatch,,6,,colosseum_event_02
-TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
+TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
 TVTP Misc,Dune Race,Banger Race,3,,,misc_dunerace
+The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Arenas,Corrosion Arena,Team Deathmatch,,6,2,arenas_corrosion
 TVTP Ovals,Birkeland Oval,Banger Race,2,,,ovals_birkeland_oval01
 Gardemoen,Zigzag Reverse,Banger Race,4,,,gardemoen_zigzag_reverse
 TVTP Ovals,Pennsboro,Banger Race,10,,,ovals_pennsboro
 TVTP Ovals,Knobhill Oval Reverse,Banger Race,10,,,ovals_knockhill_oval_reverse
+TVTP Misc,Ballistic,Banger Race,3,,,misc_space_s1
 Grenland,Fast Layout,Banger Race,5,,,grenland_fast
 Farmlands,Stage 1,Banger Race,1,,,farmlands_s1
 TVTP Misc,SFS,Banger Race,2,,,misc_sfs
@@ -16,18 +18,21 @@ TVTP Fig. Of Eight,Derby Banked E. Big Ramp,Banger Race,8,,,fig8_derbybankedeigh
 TVTP Ovals,Bristol Banger,Team Race,10,,2,ovals_bristol_banger
 TVTP Misc,Warehouse Run,Banger Race,7,,,misc_nfdwarehouserun
 TVTP Ovals,Bristol Dirt,Banger Race,10,,,ovals_bristol_dirt
+TVTP Rallycross,Lupine Hills,Banger Race,5,,,rallycross_lupineshill
 TVTP Ovals,Pine Hills Raceway,Banger Race,6,,,ovals_phr
 TVTP Misc,Harbor 06,Banger Race,3,,,misc_harbor_06
 TVTP Misc,Pit Stop,Banger Race,3,,,misc_pitstop
+The Colosseum,Event 06 - Stadium Race,Banger Race,3,,,colosseum_event_06
 TVTP Misc,Bugbear Island,Banger Race,3,,,misc_bugbearisland
 Lyngas,Lyngas Slow,Banger Race,4,,,lyngas_lyngas_slow
 Gardemoen,Oval,Banger Race,4,,,gardemoen_drag_oval
 Pocono,Pocono Route 2,Banger Race,2,,,pocono_route_2
 TVTP Ovals,King's Lynn,Team Race,10,,2,ovals_kingslynn
 Gardemoen,Head-On Reverse,Banger Race,4,,,gardemoen_head-on_reverse
-TVTP Rallycross,Simstox Showdown,Banger Race,6,,,rallycross_simstoxshowdown
+TVTP Rallycross,Simstox Showdown,Banger Race,5,,,rallycross_simstoxshowdown
 TVTP Misc,Dune Race,Banger Race,3,,,misc_dunerace
-TVTP Misc,Bridge to Nowhere,Banger Race,10,,,misc_bridgetonowhere
+TVTP Misc,Bridge to Nowhere,Banger Race,8,,,misc_bridgetonowhere
+TVTP Arenas,Rock Bottom Derby,Deathmatch,,6,,arenas_rbderby
 The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Misc,Caprio County Raceway Reverse,Banger Race,6,,,misc_ccr_reverse
 TVTP Rallycross,Knobhill Rallycross Short,Banger Race,5,,,rallycross_knockhill_rc_short
@@ -37,7 +42,7 @@ TVTP Arenas,Red Pike Arena,Team Deathmatch,,6,2,arenas_rpa2017
 TVTP Misc,Kristiansand Raceway,Banger Race,4,,,misc_kristiansandraceway
 TVTP Misc,Harbor 03,Banger Race,5,,,misc_harbor_03
 The Colosseum,Event 02 - Deathsphere,Deathmatch,,6,,colosseum_event_02
-The Colosseum,Event 07 - Motocross,Banger Race,6,,,colosseum_event_07
+The Colosseum,Event 07 - Motocross,Banger Race,5,,,colosseum_event_07
 TVTP Fig. Of Eight,Red Pike Race,Banger Race,8,,,fig8_rpar2017
 TVTP Ovals,Pennsboro,Banger Race,10,,,ovals_pennsboro
 Pocono,Pocono Route 5,Banger Race,1,,,pocono_route_5
@@ -49,8 +54,8 @@ TVTP Arenas,Bristol Arena,Deathmatch,,6,,arenas_bristol_arena
 Farmlands,Stage 3,Banger Race,2,,,farmlands_s3
 TVTP Ovals,Birkeland Oval,Banger Race,2,,,ovals_birkeland_oval01
 The Colosseum,Event 08 - Obliterate Sphere,Deathmatch,,6,,colosseum_event_08
-TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
-TVTP Misc,SFS,Banger Race,2,,,misc_sfs
+TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
+TVTP Misc,SFS,Banger Race,1,,,misc_sfs
 The Colosseum,Event 11 - Banger Oval,Team Race,10,,2,colosseum_event_11
 TVTP Misc,Rock Bottom Race,Banger Race,3,,,misc_rbRace
 Pocono,Pocono Route 3,Banger Race,3,,,pocono_route_3
@@ -98,17 +103,17 @@ Pocono,Pocono Route 4,Banger Race,3,,,pocono_route_4
 Grenland,Joker Layout,Banger Race,5,,,grenland_joker
 TVTP Ovals,Ringwood,Banger Race,10,,,ovals_ringwood
 TVTP Ovals,Bristol Dirt,Banger Race,10,,,ovals_bristol_dirt
+The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Ovals,Pennsboro Minioval Reverse,Team Race,10,,2,ovals_pennsboro_minioval_reverse
 TVTP Ovals,Redwood Ring Oval,Banger Race,8,,,ovals_rwro
 TVTP Misc,Knobhill,Banger Race,4,,,misc_knockhill
-TVTP Arenas,Rock Bottom Derby,Deathmatch,,6,,arenas_rbderby
 TVTP Rallycross,Redwood Ring Rallycross,Banger Race,5,,,rallycross_rwrr
 TVTP Fig. Of Eight,Derby Banked E. No Ramp,Banger Race,8,,,fig8_derbybankedeightnoramp
 TVTP Ovals,Michigan Speedway,Team Race,5,,2,ovals_michiganspeedway
 TVTP Rallycross,Howling Wolfs Raceway Chicane,Banger Race,5,,,rallycross_hw_chicane
 TVTP Misc,SCA Ultimate Raceway,Banger Race,3,,,misc_sca
 TVTP Misc,No Construction Fences,Banger Race ,1,,,misc_birkeland_barriers
-TVTP Rallycross,Simstox Showdown,Banger Race,6,,,rallycross_simstoxshowdown
+TVTP Rallycross,Simstox Showdown,Banger Race,5,,,rallycross_simstoxshowdown
 Grenland,Fast Layout,Banger Race,5,,,grenland_fast
 TVTP Rallycross,Knobhill Rallycross Long,Banger Race,5,,,rallycross_knockhill_rc_long
 Farmlands,Stage 3,Banger Race,2,,,farmlands_s3
@@ -126,20 +131,21 @@ The Colosseum,Event 08 - Obliterate Sphere,Deathmatch,,6,,colosseum_event_08
 TVTP Misc,SFS,Banger Race,2,,,misc_sfs
 TVTP Misc,Birkeland,Banger Race ,1,,,misc_birkeland
 The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
-TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
+TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
 TVTP Ovals,Pine Hills Raceway,Team Race,6,,2,ovals_phr
 Pocono,Pocono Route 5,Banger Race,1,,,pocono_route_5
 TVTP Ovals,Hillside Raceway,Banger Race,10,,,ovals_hillsideracewaysmooth
 The Colosseum,Event 06 - Stadium Race,Banger Race,4,,,colosseum_event_06
+TVTP Arenas,Rock Bottom Derby,Deathmatch,,6,,arenas_rbderby
 Farmlands,Stage 2,Banger Race,1,,,farmlands_s2
 TVTP Misc,Bugbear Island,Banger Race,4,,,misc_bugbearisland
 Lyngas,Lyngas Fast,Banger Race,6,,,lyngas_lyngas_fast
-TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
+TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
 TVTP Arenas,Main Derby,Deathmatch,,6,,arenas_nfdd
 Gardemoen,Oval,Banger Race,5,,,gardemoen_drag_oval
 Pocono,Pocono Oval,Banger Race,3,,,pocono_oval
 TVTP Ovals,Hillside Raceway,Team Race,10,,2,ovals_hillsideracewaysmooth
-TVTP Misc,Bridge to Nowhere,Banger Race,10,,,misc_bridgetonowhere
+TVTP Misc,Bridge to Nowhere,Banger Race,8,,,misc_bridgetonowhere
 Farmlands,Stage 1 Reverse,Banger Race,1,,,farmlands_s1
 TVTP Misc,Ballistic,Banger Race,3,,,misc_space_s1
 Gardemoen,Head-On,Banger Race,5,,,gardemoen_head-on
@@ -157,6 +163,7 @@ Gardemoen,Head-On Reverse,Banger Race,5,,,gardemoen_head-on_reverse
 TVTP Ovals,Michigan Speedway,Banger Race,5,,,ovals_michiganspeedway
 TVTP Misc,Woodhill Raceway,Banger Race,5,,,misc_woodhillraceway
 TVTP Misc,Knobhill Reverse,Banger Race,4,,,misc_knockhill_reverse
+The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Ovals,Arendale Triangle,Banger Race,10,,,ovals_arendaltriangle
 The Colosseum,Event 02 - Deathsphere,Deathmatch,,6,,colosseum_event_02
 TVTP Ovals,Bristol,Team Race,10,,2,ovals_bristol
@@ -169,7 +176,7 @@ Green Racing Park Garden,Green Racing Park Garden,Team Race,8,,2,greenracing_cro
 TVTP Misc,CCR Ramp Reverse,Banger Race,6,,,misc_ccr_ramp_reverse
 TVTP Ovals,Pine Hills Raceway,Banger Race,6,,,ovals_phr
 TVTP Misc,Black Sails Valley,Banger Race,5,,,misc_bsv
-TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
+TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
 TVTP Misc,Warehouse Run,Banger Race,6,,,misc_nfdwarehouserun
 TVTP Rallycross,Howling Wolfs Raceway Chicane,Banger Race,5,,,rallycross_hw_chicane
 TVTP Misc,Caprio County Raceway,Banger Race,6,,,misc_ccr
@@ -180,7 +187,8 @@ TVTP Ovals,Red Pike Arena Oval,Banger Race,10,,,ovals_rpa_oval
 TVTP Arenas,Rock Bottom Derby,Team Deathmatch,,6,2,arenas_rbderby
 Lyngas,Lyngas Original Reverse,Banger Race,5,,,lyngas_lyngas_original_reverse
 TVTP Misc,Ballistic,Banger Race,3,,,misc_space_s1
-TVTP Misc,SFS,Banger Race,2,,,misc_sfs
+TVTP Misc,SFS,Banger Race,1,,,misc_sfs
+The Colosseum,Event 07 - Motocross,Banger Race,5,,,colosseum_event_07
 TVTP Ovals,Orange Speedway,Banger Race,5,,,ovals_os
 Grenland,Chicane Layout,Banger Race,5,,,grenland_chicane
 TVTP Ovals,Pennsboro Minioval Reverse,Team Race,10,,2,ovals_pennsboro_minioval_reverse
@@ -188,10 +196,11 @@ Green Racing Park Garden,Green Racing Park Garden,Banger Race,8,,,greenracing_cr
 TVTP Misc,Kristiansand Raceway,Banger Race,5,,,misc_kristiansandraceway
 TVTP Fig. Of Eight,Harbor 4,Banger Race,7,,,fig8_harbor_04
 TVTP Misc,Dune Race,Banger Race,3,,,misc_dunerace
-TVTP Rallycross,Simstox Showdown,Banger Race,6,,,rallycross_simstoxshowdown
+TVTP Rallycross,Simstox Showdown,Banger Race,5,,,rallycross_simstoxshowdown
 Pocono,Pocono Route 2,Banger Race,2,,,pocono_route_2
 Grenland,Chicane Layout,Banger Race,5,,,grenland_chicane
 TVTP Ovals,Knobhill Oval,Banger Race,10,,,ovals_knockhill_oval
+The Colosseum,Event 06 - Stadium Race,Banger Race,3,,,colosseum_event_06
 TVTP Ovals,Red Pike Arena Oval,Banger Race,10,,,ovals_rpa_oval
 TVTP Misc,Bugbear Island,Banger Race,4,,,misc_bugbearisland
 TVTP Misc,RWR Tour,Banger Race,3,,,misc_rwr_tour
@@ -200,15 +209,16 @@ The Colosseum,Event 02 - Deathsphere,Deathmatch,,6,,colosseum_event_02
 TVTP Rallycross,Rugsland,Banger Race,6,,,rallycross_rugsland
 Farmlands,Stage 5,Banger Race,1,,,farmlands_s5
 The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
-TVTP Misc,Rock Bottom Race,Banger Race,4,,,misc_rbRace
+TVTP Misc,Rock Bottom Race,Banger Race,3,,,misc_rbRace
 TVTP Misc,BSV Reverse Day,Banger Race,5,,,misc_bsv_reverse_day
 Gardemoen,Oval,Banger Race,5,,,gardemoen_drag_oval
 The Colosseum,Event 09 - The Pit,Deathmatch,,6,,colosseum_event_09
-TVTP Misc,Bridge to Nowhere,Banger Race,10,,,misc_bridgetonowhere
-TVTP Fig. Of Eight,Hurtful Five,Banger Race,4,,,fig8_hurtfullfive
+TVTP Misc,Bridge to Nowhere,Banger Race,8,,,misc_bridgetonowhere
+TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
 Gardemoen,Head-On,Banger Race,4,,,gardemoen_head-on
 TVTP Misc,Warehouse Run,Banger Race,5,,,misc_nfdwarehouserun
 TVTP Fig. Of Eight,Sca U. Raceway Chicane,Banger Race,4,,,fig8_scac
+TVTP Arenas,Rock Bottom Derby,Deathmatch,,6,,arenas_rbderby
 Pocono,Pocono Route 1 Reverse,Banger Race,2,,,pocono_route_1_reverse
 TVTP Ovals,Wimbledon,Banger Race,10,,,ovals_wimbledon
 TVTP Rallycross,Redwood Ring Rallycross,Banger Race,5,,,rallycross_rwrr

@@ -83,7 +83,7 @@ with open('admins.csv') as admin_csv_file:
         if line_count == 2:
             admin_list = admin_list + row[1]
         elif line_count > 2:
-            admin_list = admin_list + "," + row[1]
+            admin_list = admin_list + "," + row[1].strip("\"\n")
         line_count = line_count+1
     output_file.write("admin_steam_ids=" + admin_list)
     output_file.write("\n")
@@ -95,7 +95,7 @@ with open('moderators.csv') as moderators_csv_file:
         if line_count == 2:
             moderators_list = moderators_list + row[1]
         elif line_count > 2:
-            moderators_list = moderators_list + "," + row[1]
+            moderators_list = moderators_list + "," + row[1].strip("\"\n")
         line_count = line_count+1
     output_file.write("op_steam_ids=" + moderators_list)
     output_file.write("\n")
@@ -117,7 +117,7 @@ output_file.write("bots=16")
 output_file.write("\n")
 
 # Bot difficulty novice, amateur, expert
-output_file.write("ai_difficulty=expert")
+output_file.write("ai_difficulty=novice")
 output_file.write("\n")
 
 # Number of default teams in team modes
@@ -157,7 +157,7 @@ output_file.write("car_reset_disabled=0")
 output_file.write("\n")
 
 # Set car reset delay 1-20 seconds
-output_file.write("car_reset_delay=5")
+output_file.write("car_reset_delay=3")
 output_file.write("\n")
 
 # Disable wrong way driving 0 = wrong way driving is slowed down, 1 = no limits to driving wrong way
