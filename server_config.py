@@ -81,7 +81,7 @@ with open('admins.csv') as admin_csv_file:
     admin_list = ""
     for row in admin_csv_reader:
         if line_count == 2:
-            admin_list = admin_list + row[1]
+            admin_list = admin_list + row[1].strip("\"\n")
         elif line_count > 2:
             admin_list = admin_list + "," + row[1].strip("\"\n")
         line_count = line_count+1
@@ -93,7 +93,7 @@ with open('moderators.csv') as moderators_csv_file:
     moderators_list = ""
     for row in moderators_csv_reader:
         if line_count == 2:
-            moderators_list = moderators_list + row[1]
+            moderators_list = moderators_list + row[1].strip("\"\n")
         elif line_count > 2:
             moderators_list = moderators_list + "," + row[1].strip("\"\n")
         line_count = line_count+1
