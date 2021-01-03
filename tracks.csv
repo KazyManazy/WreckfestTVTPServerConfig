@@ -49,7 +49,7 @@ Pocono,Pocono Route 5,Banger Race,1,,,pocono_route_5
 TVTP Ovals,Redwood Ring Oval,Team Race,8,,2,ovals_rwro
 TVTP Misc,Woodhill Raceway,Banger Race,4,,,misc_woodhillraceway
 Lyngas,Lyngas Slow Reverse,Banger Race,4,,,lyngas_lyngas_slow_reverse
-TVTP Misc,Harbor 01,Banger Race,3,,,misc_harbor_01
+TVTP Misc,Harbor 01,Banger Race,4,,,misc_harbor_01
 TVTP Arenas,Bristol Arena,Deathmatch,,6,,arenas_bristol_arena
 Farmlands,Stage 3,Banger Race,2,,,farmlands_s3
 TVTP Ovals,Birkeland Oval,Banger Race,2,,,ovals_birkeland_oval01
@@ -64,9 +64,8 @@ TVTP Rallycross,Knobhill Rallycross Long,Banger Race,5,,,rallycross_knockhill_rc
 TVTP Ovals,Arendale Triangle,Banger Race,10,,,ovals_arendaltriangle
 Gardemoen,Arena,Deathmatch,,6,,gardemoen_arena_01
 Grenland,Head-On Layout,Banger Race,5,,,grenland_head_on
-TVTP Misc,Black Sails Valley,Banger Race,5,,,misc_bsv
 TVTP Misc,Woodhill Raceway,Banger Race,4,,,misc_woodhillraceway
-TVTP Misc,Bugbear Island,Banger Race,5,,,misc_bugbearisland
+TVTP Misc,Bugbear Island,Banger Race,4,,,misc_bugbearisland
 Farmlands,Stage 4,Banger Race,2,,,farmlands_s4
 TVTP Misc,Caprio County Raceway Reverse,Team Race,6,,2,misc_ccr_reverse
 TVTP Misc,Knobhill,Banger Race,4,,,misc_knockhill
@@ -94,7 +93,7 @@ TVTP Misc,Chalk Canyon 2017,Banger Race,3,,,misc_cc2017
 TVTP Ovals,Pine Hills Raceway,Banger Race,6,,,ovals_phr
 Gardemoen,Fig. 8,Banger Race,6,,,gardemoen_fig8
 TVTP Misc,Kristiansand Raceway,Banger Race,5,,,misc_kristiansandraceway
-TVTP Misc,Reverse,Banger Race,5,,,misc_bugbearislandreverse
+TVTP Misc,Reverse,Banger Race,4,,,misc_bugbearislandreverse
 Farmlands,Stage 4,Banger Race,2,,,farmlands_s4
 The Colosseum,Event 11 - Banger Oval,Banger Race,10,,,colosseum_event_11
 TVTP Ovals,Orange Speedway Safer,Banger Race,10,,,ovals_oss
@@ -126,7 +125,6 @@ TVTP Misc,Dune Race,Banger Race,3,,,misc_dunerace
 TVTP Ovals,Harbor 07,Banger Race,10,,,ovals_harbor_07
 TVTP Fig. Of Eight,Derby Banked Eight,Banger Race,8,,,fig8_derbybankedeight
 Lyngas,Lyngas Original,Banger Race,5,,,lyngas_lyngas_original
-TVTP Misc,BSV Reverse Day,Banger Race,5,,,misc_bsv_reverse_day
 The Colosseum,Event 08 - Obliterate Sphere,Deathmatch,,6,,colosseum_event_08
 TVTP Misc,SFS,Banger Race,2,,,misc_sfs
 TVTP Misc,Birkeland,Banger Race ,1,,,misc_birkeland
@@ -175,7 +173,6 @@ TVTP Misc,Chalk Canyon 2017,Banger Race,3,,,misc_cc2017
 Green Racing Park Garden,Green Racing Park Garden,Team Race,8,,2,greenracing_crosskart_01
 TVTP Misc,CCR Ramp Reverse,Banger Race,6,,,misc_ccr_ramp_reverse
 TVTP Ovals,Pine Hills Raceway,Banger Race,6,,,ovals_phr
-TVTP Misc,Black Sails Valley,Banger Race,5,,,misc_bsv
 TVTP Fig. Of Eight,Hurtful Five,Banger Race,3,,,fig8_hurtfullfive
 TVTP Misc,Warehouse Run,Banger Race,6,,,misc_nfdwarehouserun
 TVTP Rallycross,Howling Wolfs Raceway Chicane,Banger Race,5,,,rallycross_hw_chicane
@@ -210,7 +207,6 @@ TVTP Rallycross,Rugsland,Banger Race,6,,,rallycross_rugsland
 Farmlands,Stage 5,Banger Race,1,,,farmlands_s5
 The Colosseum,Event 10 - Crash Canyon,Banger Race,5,,,colosseum_event_10
 TVTP Misc,Rock Bottom Race,Banger Race,3,,,misc_rbRace
-TVTP Misc,BSV Reverse Day,Banger Race,5,,,misc_bsv_reverse_day
 Gardemoen,Oval,Banger Race,5,,,gardemoen_drag_oval
 The Colosseum,Event 09 - The Pit,Deathmatch,,6,,colosseum_event_09
 TVTP Misc,Bridge to Nowhere,Banger Race,8,,,misc_bridgetonowhere
